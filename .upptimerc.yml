@@ -7,7 +7,7 @@ sites:
     url: tcp://83.240.121.205
   - name: Hlubocky cloud (Hlubočky)
     url: tcp://176.97.241.251
-  -name: Watchdog server (Kyjov)
+  - name: Watchdog server (Kyjov)
     url: tcp://176.97.241.251
     
 status-website:
