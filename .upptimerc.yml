@@ -8,9 +8,9 @@ sites:
   - name: Hlubocky cloud
     url: https://hlubocky.cloud
   - name: TeamSpeak3 server
-    url: tcp://ts.maxxx.cz:9987
+    url: tcp://176.97.241.251:9987
   - name: COD2 server
-    url: tcp://gg.maxxx.cz:28960
+    url: tcp://83.240.121.205:28960
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
