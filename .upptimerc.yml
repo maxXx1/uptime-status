@@ -6,13 +6,37 @@ sites:
   - name: Hlubocky cloud (Hlubočky)
     url: https://hlubocky.cloud
   - name: Wildlee cloud (Brno)
-    url: http://wildlee.cloud
+    url: https://wildlee.cloud
     expectedStatusCodes:
       - 401
   - name: TeamSpeak3 server
     check: "tcp-ping"
     url: ts.maxxx.cz
     port: 10011
+  - name: Killing Floor | HARD | LONG | CZE
+    check: "tcp-ping"
+    url: gg.maxxx.cz
+    port: 7701
+  - name: Killing Floor | SUICIDAL | LONG | CZE
+    check: "tcp-ping"
+    url: gg.maxxx.cz
+    port: 7721
+  - name: Killing Floor | HOE | LONG | CZE
+    check: "tcp-ping"
+    url: gg.maxxx.cz
+    port: 7741
+  - name: Killing Floor 2 | HARD | LONG | Survival | CZE
+    check: "tcp-ping"
+    url: gg.maxxx.cz
+    port: 7801
+  - name: Killing Floor 2 | SUICIDAL | LONG | Survival | CZE
+    check: "tcp-ping"
+    url: gg.maxxx.cz
+    port: 7821
+  - name: Killing Floor 2 | HOE | LONG | Survival | CZE
+    check: "tcp-ping"
+    url: gg.maxxx.cz
+    port: 7841
 
     
 status-website:
