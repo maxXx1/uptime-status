@@ -1,67 +1,9 @@
 [
   {
-    "name": "Wildlee cloud",
-    "url": "https://wildlee.cloud",
-    "icon": "https://icons.duckduckgo.com/ip3/wildlee.cloud.ico",
-    "slug": "wildlee-cloud",
-    "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-02-04": 33
-    }
-  },
-  {
-    "name": "Hlubocky cloud",
-    "url": "https://hlubocky.cloud",
-    "icon": "https://icons.duckduckgo.com/ip3/hlubocky.cloud.ico",
-    "slug": "hlubocky-cloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 203,
-    "timeWeek": 203,
-    "timeMonth": 203,
-    "timeYear": 203,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "TeamSpeak3 server",
-    "url": "tcp://176.97.241.251:9987",
-    "icon": "https://icons.duckduckgo.com/ip3/176.97.241.251.ico",
-    "slug": "team-speak3-server",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-02-04": 8
-    }
-  },
-  {
-    "name": "COD2 server",
-    "url": "tcp://83.240.121.205:28960",
+    "name": "Wildlee cloud (Brno)",
+    "url": "tcp://83.240.121.205",
     "icon": "https://icons.duckduckgo.com/ip3/83.240.121.205.ico",
-    "slug": "cod-2-server",
+    "slug": "wildlee-cloud-brno",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -74,7 +16,47 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 8
+      "2026-02-04": 12
+    }
+  },
+  {
+    "name": "Hlubocky cloud (Hlubočky)",
+    "url": "tcp://176.97.241.251",
+    "icon": "https://icons.duckduckgo.com/ip3/176.97.241.251.ico",
+    "slug": "hlubocky-cloud-hlubocky",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-02-04": 12
+    }
+  },
+  {
+    "name": "Watchdog server (Kyjov)",
+    "url": "tcp://77.92.212.162",
+    "icon": "https://icons.duckduckgo.com/ip3/77.92.212.162.ico",
+    "slug": "watchdog-server-kyjov",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-02-04": 12
     }
   }
 ]
