@@ -11,7 +11,7 @@ sites:
       - 401
   - name: TeamSpeak3 server
     check: "tcp-ping"
-    url: tcp://176.97.241.251
+    url: ts.maxxx.cz
     port: 9987
 
     
