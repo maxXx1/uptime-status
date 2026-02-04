@@ -8,7 +8,7 @@ sites:
   - name: Hlubocky cloud (Hlubočky)
     url: tcp://176.97.241.251
   - name: Watchdog server (Kyjov)
-    url: tcp://176.97.241.251
+    url: tcp://77.92.212.162
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
