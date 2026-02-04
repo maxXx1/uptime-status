@@ -9,7 +9,7 @@ sites:
     url: http://wildlee.cloud
   - name: TeamSpeak3 server
     check: "tcp-ping"
-    url: 176.97.241.251
+    url: tcp://176.97.241.251
     port: 9987
 
     
