@@ -4,23 +4,9 @@ repo: uptime-status # The name of this repository
 
 sites:
   - name: Wildlee cloud (Brno)
-    check: globalping
-    target: wildlee.cloud
-    locations:
-      - city: Uherské Hradiště
-        country: CZ
-  - name: Hlubocky cloud (Hlubočky)
-    check: globalping
-    target: 176.97.241.251
-    locations:
-      - city: Uherské Hradiště
-        country: CZ
-  - name: Watchdog server (Kyjov)
-    check: globalping
-    target: 176.97.241.251
-    locations:
-      - city: Uherské Hradiště
-        country: CZ
+    url: https://wildlee.cloud
+    type: globalping
+    location: Uherske Hradiste
   - name: TeamSpeak3 server
     check: "tcp-ping"
     url: ts.maxxx.cz
