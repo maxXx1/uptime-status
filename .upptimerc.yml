@@ -12,7 +12,7 @@ sites:
   - name: TeamSpeak3 server
     check: "tcp-ping"
     url: ts.maxxx.cz
-    port: 9987
+    port: 10011
 
     
 status-website:
