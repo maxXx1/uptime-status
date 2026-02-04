@@ -3,15 +3,13 @@ owner: maxXx1 # Your GitHub organization or username, where this repository live
 repo: uptime-status # The name of this repository
 
 sites:
-  - name: Wildlee cloud
-    url: https://wildlee.cloud
-  - name: Hlubocky cloud
-    url: https://hlubocky.cloud
-  - name: TeamSpeak3 server
-    url: tcp://176.97.241.251:9987
-  - name: COD2 server
-    url: tcp://83.240.121.205:28960
-
+  - name: Wildlee cloud (Brno)
+    url: tcp://83.240.121.205
+  - name: Hlubocky cloud (Hlubočky)
+    url: tcp://176.97.241.251
+  -name: Watchdog server (Kyjov)
+    url: tcp://176.97.241.251
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
