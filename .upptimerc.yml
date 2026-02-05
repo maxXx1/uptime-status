@@ -12,9 +12,13 @@ sites:
     url: ts.maxxx.cz
     port: 10011
   - name: f$ clan web
-    url: http://fs.clanweb.cz
+    url: http://fs.clanweb.eu
+  - name: Xfire Fórum
+    url: https://xfire.4fan.cz
+  - name: Rohatorium festival
+    url: https://www.rohatorium.4fan.cz
   - name: Terasy Kyjov
-    url: https://terasykyjov.cz/
+    url: https://terasykyjov.cz
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
