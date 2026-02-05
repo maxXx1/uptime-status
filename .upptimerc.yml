@@ -17,10 +17,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.pokorak.cz
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://maxxx.cz/storage/img/logo.png
   name: Server uptime monitor
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: ¯\_(ツ)_/¯
+  introTitle: "Tento **watchdog** nezávisle monitoruje služby, které by měly běžet."
+  introMessage: ¯Pokud neběží, tak o tom nejspíš vím \_(ツ)_/¯
   navbar:
     - title: Status
       href: /
