@@ -11,6 +11,10 @@ sites:
     check: "tcp-ping"
     url: ts.maxxx.cz
     port: 10011
+  - name: f$ clan web
+    url: http://fs.clanweb.cz
+  - name: Terasy Kyjov
+    url: https://terasykyjov.cz/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
