@@ -5,9 +5,8 @@ repo: uptime-status # The name of this repository
 sites:
   - name: Herní servery
     url: gg.maxxx.cz
-    type: globalping
-    check: icmp-ping
-    location: uherske-hradiste+CZ
+    check: "tcp-ping"
+    port: 80
   - name: TeamSpeak3 server
     check: "tcp-ping"
     url: ts.maxxx.cz
