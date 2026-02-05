@@ -5,9 +5,11 @@ repo: uptime-status # The name of this repository
 sites:
   - name: Herní servery
     url: gg.maxxx.cz
+    icon: https://maxxx.cz/storage/img/favico.png
     check: "tcp-ping"
     port: 80
   - name: TeamSpeak3 server
+    icon: https://www.teamspeak.com/user/themes/teamspeak/images/favicon.ico
     check: "tcp-ping"
     url: ts.maxxx.cz
     port: 10011
@@ -28,7 +30,7 @@ status-website:
   logoUrl: https://maxxx.cz/storage/img/logo.png
   name: Server uptime monitor
   introTitle: "Tento **watchdog** nezávisle monitoruje služby, které by měly běžet."
-  introMessage: ¯Pokud neběží, tak o tom nejspíš vím \_(ツ)_/¯
+  introMessage: Pokud neběží, tak o tom nejspíš vím ¯\_(ツ)_/¯
   navbar:
     - title: Status
       href: /
