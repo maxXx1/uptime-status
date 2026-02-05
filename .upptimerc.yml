@@ -24,6 +24,7 @@ sites:
     
 status-website:
   themeUrl: https://status.pokorak.cz/discord.css
+  robotsText: "User-agent: * \n Disallow: /"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.pokorak.cz
@@ -39,8 +40,8 @@ status-website:
       href: https://pokorak.cz
     - title: Herní servery
       href: https://maxxx.cz
-    - title: Github
-      href: https://github.com/$OWNER/$REPO
+    - title: UptimeKuma
+      href: https://uptime.maxxx.cz/status/srv
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
@@ -53,3 +54,6 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "40 */6 * * *"
   uptime: "*/5 * * * *"
+
+i18n:
+  footer: Tahle stránka je [open source]($REPO), Vytvořil s 🍺 [Aleš](https://pokorak.cz)
