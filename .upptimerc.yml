@@ -77,61 +77,73 @@ i18n:
   activeIncidents: Aktivní incidenty
   allSystemsOperational: Všechny systémy jsou v provozu
   incidentReport: "Zpráva o incidentu #$NUMBER →"
-  activeIncidentSummary: Otevřeno $DATE, počet příspěvků: $POSTS
-  incidentTitle: Podrobnosti incidentu $NUMBER
+  activeIncidentSummary: "Otevřeno $DATE, počet příspěvků: $POSTS"
+  incidentTitle: "Podrobnosti incidentu $NUMBER"
   incidentDetails: Detaily incidentu
   incidentFixed: Opraveno
   incidentOngoing: Probíhá
   incidentOpenedAt: Otevřeno
   incidentClosedAt: Uzavřeno
   incidentViewOnGitHub: Zobrazit a sledovat na GitHubu
-  incidentCommentSummary: Publikováno $DATE autorem $AUTHOR
-  incidentBack: ← Zpět na všechny incidenty
+  incidentCommentSummary: "Publikováno $DATE autorem $AUTHOR"
+  incidentBack: "← Zpět na všechny incidenty"
+
   pastIncidents: Minulé incidenty
-  pastIncidentsResolved: Vyřešeno za $MINUTES minut, počet příspěvků: $POSTS
+  pastIncidentsResolved: "Vyřešeno za $MINUTES minut, počet příspěvků: $POSTS"
+
   liveStatus: Aktuální stav
   overallUptime: "Celková dostupnost: $UPTIME"
   overallUptimeTitle: Celková dostupnost
+
   averageResponseTime: "Průměrná odezva: $TIME ms"
   averageResponseTimeTitle: Průměrná odezva
   sevelDayResponseTime: Odezva za posledních 7 dní
   responseTimeMs: Odezva (ms)
+
   up: V provozu
   down: Nedostupné
   degraded: Zhoršený stav
   ms: ms
   loading: Načítání…
+
   navGitHub: GitHub
-  footer: Tahle stránka je [open source]($REPO), Vytvořil s 🍺 [Aleš](https://pokorak.cz)
+
+  footer: "Tato stránka je [open‑source]($REPO), poháněná projektem [Upptime](https://upptime.js.org)"
+
   rateLimitExceededTitle: Překročen limit dotazů
-  rateLimitExceededIntro: Překročili jste počet povolených požadavků za hodinu. Počkejte prosím, nebo přidejte GitHub Personal Access Token pro pokračování.
+  rateLimitExceededIntro: "Překročili jste počet povolených požadavků za hodinu. Počkejte prosím, nebo přidejte GitHub Personal Access Token pro pokračování."
   rateLimitExceededWhatDoesErrorMean: Co tato chyba znamená
-  rateLimitExceededErrorMeaning: Tato stránka používá GitHub API pro získání aktuálních dat o stavu služeb. GitHub povoluje každé IP adrese 60 požadavků za hodinu, což jste překročili.
+  rateLimitExceededErrorMeaning: "Tato stránka používá GitHub API pro získání aktuálních dat o stavu služeb. GitHub povoluje každé IP adrese 60 požadavků za hodinu, což jste překročili."
   rateLimitExceededErrorHowCanFix: Jak to mohu opravit
-  rateLimitExceededErrorFix: Počkejte hodinu, než se limit obnoví, nebo přidejte GitHub Personal Access Token, který poskytuje dalších 5 000 požadavků za hodinu.
+  rateLimitExceededErrorFix: "Počkejte hodinu, než se limit obnoví, nebo přidejte GitHub Personal Access Token, který poskytuje dalších 5 000 požadavků za hodinu."
   rateLimitExceededGeneratePAT: Jak vytvořit Personal Access Token
   rateLimitExceededHasSet: Personal Access Token je nastaven.
   rateLimitExceededRemoveToken: Odebrat token
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
   rateLimitExceededCopyPastePAT: Vložte svůj token
   rateLimitExceededSaveToken: Uložit token
+
   errorTitle: Došlo k chybě
-  errorIntro: Při získávání aktuálního stavu došlo k chybě.
-  errorText: Zkuste to prosím znovu za okamžik.
+  errorIntro: "Při získávání aktuálního stavu došlo k chybě."
+  errorText: "Zkuste to prosím znovu za okamžik."
   errorHome: Zpět na hlavní stránku
+
   pastScheduledMaintenance: Minulé plánované údržby
   scheduledMaintenance: Plánovaná údržba
-  scheduledMaintenanceSummaryStarted: Zahájeno $DATE, trvání $DURATION minut
-  scheduledMaintenanceSummaryStarts: Začíná $DATE, plánované trvání $DURATION minut
+  scheduledMaintenanceSummaryStarted: "Zahájeno $DATE, trvání $DURATION minut"
+  scheduledMaintenanceSummaryStarts: "Začíná $DATE, plánované trvání $DURATION minut"
   startedAt: Zahájeno
   startsAt: Začíná
   duration: Trvání
-  durationMin: $DURATION minut
+  durationMin: "$DURATION minut"
+
   incidentCompleted: Dokončeno
   incidentScheduled: Naplánováno
+
   duration24H: 24 h
   duration7D: 7 dní
   duration30D: 30 dní
   duration1Y: 1 rok
   durationAll: vše
+
   locale: cs-CZ
