@@ -3,16 +3,30 @@ owner: maxXx1 # Your GitHub organization or username, where this repository live
 repo: uptime-status # The name of this repository
 
 sites:
-  - name: Herní servery
-    url: gg.maxxx.cz
-    icon: https://maxxx.cz/storage/img/favico.png
+  - name: Wildlee cloud (Brno)
+    icon: https://ftp.maxxx.cz/ico/cloud-server.png
+    url: wildlee.cloud
+    type: "globalping"
     check: "tcp-ping"
-    port: 80
+    location: "Brno+CZ"
+    ipv6: false
+  - name: Hlubocky cloud (Hlubočky)
+    icon: https://ftp.maxxx.cz/ico/cloud-server.png
+    url: hlubocky.online
+    type: "globalping"
+    check: "tcp-ping"
+    location: "Brno+CZ"
+    ipv6: false
   - name: TeamSpeak3 server
     icon: https://www.teamspeak.com/user/themes/teamspeak/images/favicon.ico
     check: "tcp-ping"
     url: ts.maxxx.cz
     port: 10011
+  - name: Herní servery
+    url: gg.maxxx.cz
+    icon: https://maxxx.cz/storage/img/favico.png
+    check: "tcp-ping"
+    port: 80
   - name: f$ clan web
     url: http://fs.clanweb.eu
   - name: Xfire Fórum
@@ -21,13 +35,7 @@ sites:
     url: https://www.rohatorium.4fan.cz
   - name: Terasy Kyjov
     url: https://terasykyjov.cz
-  - name: Server Brno
-    icon: https://ftp.maxxx.cz/forsaken/ico/ip.gif
-    url: wildlee.cloud
-    type: "globalping"
-    check: "tcp-ping"
-    location: "Brno+CZ"
-    ipv6: false
+
     
 status-website:
   themeUrl: https://status.pokorak.cz/discord.css
