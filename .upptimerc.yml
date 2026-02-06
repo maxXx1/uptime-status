@@ -21,6 +21,13 @@ sites:
     url: https://www.rohatorium.4fan.cz
   - name: Terasy Kyjov
     url: https://terasykyjov.cz
+  - name: Server Brno
+    icon: https://ftp.maxxx.cz/forsaken/ico/ip.gif
+    url: wildlee.cloud
+    type: "globalping"
+    check: "tcp-ping"
+    location: "Brno+CZ"
+    ipv6: false
     
 status-website:
   themeUrl: https://status.pokorak.cz/discord.css
