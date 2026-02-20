@@ -1,7 +1,7 @@
 url: http://fs.clanweb.eu
-status: up
-code: 200
-responseTime: 1946
-lastUpdated: 2026-02-20T21:44:22.555Z
+status: down
+code: 403
+responseTime: 1108
+lastUpdated: 2026-02-20T23:26:43.568Z
 startTime: 2026-02-05T11:55:36.824Z
 generator: Upptime <https://github.com/upptime/upptime>
