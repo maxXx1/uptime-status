@@ -6,7 +6,7 @@
     "slug": "wildlee-cloud-brno",
     "status": "up",
     "uptime": "96.93%",
-    "uptimeDay": "95.26%",
+    "uptimeDay": "99.84%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "98.51%",
     "uptimeYear": "96.93%",
@@ -47,7 +47,7 @@
     "slug": "hlubocky-cloud-hlubocky",
     "status": "up",
     "uptime": "98.49%",
-    "uptimeDay": "95.26%",
+    "uptimeDay": "99.84%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "98.51%",
     "uptimeYear": "98.49%",
@@ -130,17 +130,17 @@
     "url": "http://fs.clanweb.eu",
     "icon": "https://ftp.maxxx.cz/forsaken/fs_logo_150x150.png",
     "slug": "f-clan-web",
-    "status": "up",
-    "uptime": "40.00%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
+    "status": "down",
+    "uptime": "40.11%",
+    "uptimeDay": "6.84%",
+    "uptimeWeek": "0.98%",
     "uptimeMonth": "2.18%",
-    "uptimeYear": "40.00%",
-    "time": 3146,
-    "timeDay": 1761,
-    "timeWeek": 1761,
-    "timeMonth": 4607,
-    "timeYear": 3146,
+    "uptimeYear": "40.11%",
+    "time": 3135,
+    "timeDay": 1323,
+    "timeWeek": 1323,
+    "timeMonth": 4469,
+    "timeYear": 3135,
     "dailyMinutesDown": {
       "2026-04-01": 318,
       "2026-03-31": 1440,
@@ -187,7 +187,7 @@
       "2026-02-18": 176,
       "2026-02-17": 359,
       "2026-02-16": 118,
-      "2026-02-15": 165
+      "2026-02-15": 136
     }
   },
   {
@@ -195,18 +195,19 @@
     "url": "https://xfire.4fan.cz",
     "icon": "https://ftp.maxxx.cz/ico/xfire.png",
     "slug": "xfire-forum",
-    "status": "up",
-    "uptime": "88.52%",
-    "uptimeDay": "82.41%",
-    "uptimeWeek": "73.36%",
-    "uptimeMonth": "79.36%",
-    "uptimeYear": "88.52%",
+    "status": "down",
+    "uptime": "88.58%",
+    "uptimeDay": "82.39%",
+    "uptimeWeek": "73.35%",
+    "uptimeMonth": "79.46%",
+    "uptimeYear": "88.58%",
     "time": 2855,
     "timeDay": 2670,
     "timeWeek": 2861,
     "timeMonth": 3572,
     "timeYear": 2855,
     "dailyMinutesDown": {
+      "2026-04-01": 0,
       "2026-03-31": 253,
       "2026-03-30": 219,
       "2026-03-29": 480,
@@ -226,7 +227,7 @@
       "2026-03-15": 853,
       "2026-03-14": 324,
       "2026-03-13": 405,
-      "2026-03-12": 63
+      "2026-03-12": 20
     }
   },
   {
@@ -234,18 +235,19 @@
     "url": "https://www.rohatorium.4fan.cz",
     "icon": "https://www.rohatorium.4fan.cz/wp-content/uploads/2018/02/cropped-detailmece-1.jpg",
     "slug": "rohatorium-festival",
-    "status": "up",
-    "uptime": "88.17%",
-    "uptimeDay": "36.61%",
+    "status": "down",
+    "uptime": "88.26%",
+    "uptimeDay": "43.44%",
     "uptimeWeek": "60.44%",
-    "uptimeMonth": "78.73%",
-    "uptimeYear": "88.17%",
+    "uptimeMonth": "78.86%",
+    "uptimeYear": "88.26%",
     "time": 3705,
     "timeDay": 4480,
     "timeWeek": 4144,
     "timeMonth": 4631,
     "timeYear": 3705,
     "dailyMinutesDown": {
+      "2026-04-01": 0,
       "2026-03-31": 1231,
       "2026-03-30": 230,
       "2026-03-29": 478,
@@ -265,7 +267,7 @@
       "2026-03-15": 712,
       "2026-03-14": 372,
       "2026-03-13": 405,
-      "2026-03-12": 202
+      "2026-03-12": 144
     }
   },
   {
@@ -273,12 +275,12 @@
     "url": "https://terasykyjov.cz",
     "icon": "https://icons.duckduckgo.com/ip3/terasykyjov.cz.ico",
     "slug": "terasy-kyjov",
-    "status": "up",
-    "uptime": "31.29%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
+    "status": "down",
+    "uptime": "31.46%",
+    "uptimeDay": "6.84%",
+    "uptimeWeek": "0.98%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.29%",
+    "uptimeYear": "31.46%",
     "time": 2373,
     "timeDay": 2076,
     "timeWeek": 2076,
@@ -337,7 +339,7 @@
       "2026-02-11": 35,
       "2026-02-10": 285,
       "2026-02-09": 151,
-      "2026-02-08": 286
+      "2026-02-08": 217
     }
   }
 ]
