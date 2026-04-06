@@ -132,19 +132,19 @@
     "url": "http://fs.clanweb.eu",
     "icon": "https://ftp.maxxx.cz/forsaken/fs_logo_150x150.png",
     "slug": "f-clan-web",
-    "status": "up",
-    "uptime": "36.45%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.98%",
+    "status": "down",
+    "uptime": "36.54%",
+    "uptimeDay": "2.94%",
+    "uptimeWeek": "1.40%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "36.45%",
+    "uptimeYear": "36.54%",
     "time": 3130,
     "timeDay": 1941,
     "timeWeek": 1529,
     "timeMonth": 1529,
     "timeYear": 3130,
     "dailyMinutesDown": {
-      "2026-04-06": 1160,
+      "2026-04-06": 1161,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
       "2026-04-03": 1440,
@@ -194,7 +194,7 @@
       "2026-02-18": 176,
       "2026-02-17": 359,
       "2026-02-16": 118,
-      "2026-02-15": 136
+      "2026-02-15": 81
     }
   },
   {
@@ -202,19 +202,19 @@
     "url": "https://xfire.4fan.cz",
     "icon": "https://ftp.maxxx.cz/ico/xfire.png",
     "slug": "xfire-forum",
-    "status": "up",
-    "uptime": "89.63%",
-    "uptimeDay": "50.44%",
-    "uptimeWeek": "69.73%",
-    "uptimeMonth": "79.45%",
-    "uptimeYear": "89.63%",
+    "status": "down",
+    "uptime": "89.66%",
+    "uptimeDay": "52.32%",
+    "uptimeWeek": "69.72%",
+    "uptimeMonth": "79.52%",
+    "uptimeYear": "89.66%",
     "time": 3001,
-    "timeDay": 2063,
+    "timeDay": 2005,
     "timeWeek": 4345,
     "timeMonth": 3844,
     "timeYear": 3001,
     "dailyMinutesDown": {
-      "2026-04-06": 625,
+      "2026-04-06": 626,
       "2026-04-05": 760,
       "2026-04-04": 451,
       "2026-04-03": 430,
@@ -233,8 +233,7 @@
       "2026-03-21": 617,
       "2026-03-20": 473,
       "2026-03-19": 397,
-      "2026-03-18": 326,
-      "2026-03-17": 29
+      "2026-03-18": 326
     }
   },
   {
@@ -242,19 +241,19 @@
     "url": "https://www.rohatorium.4fan.cz",
     "icon": "https://www.rohatorium.4fan.cz/wp-content/uploads/2018/02/cropped-detailmece-1.jpg",
     "slug": "rohatorium-festival",
-    "status": "up",
-    "uptime": "88.73%",
-    "uptimeDay": "50.46%",
+    "status": "down",
+    "uptime": "88.78%",
+    "uptimeDay": "52.36%",
     "uptimeWeek": "60.72%",
-    "uptimeMonth": "77.68%",
-    "uptimeYear": "88.73%",
+    "uptimeMonth": "77.77%",
+    "uptimeYear": "88.78%",
     "time": 3846,
-    "timeDay": 3221,
+    "timeDay": 2646,
     "timeWeek": 5262,
     "timeMonth": 4746,
     "timeYear": 3846,
     "dailyMinutesDown": {
-      "2026-04-06": 625,
+      "2026-04-06": 626,
       "2026-04-05": 698,
       "2026-04-04": 276,
       "2026-04-03": 592,
@@ -274,7 +273,7 @@
       "2026-03-20": 1008,
       "2026-03-19": 440,
       "2026-03-18": 325,
-      "2026-03-17": 103
+      "2026-03-17": 64
     }
   },
   {
@@ -282,12 +281,12 @@
     "url": "https://terasykyjov.cz",
     "icon": "https://icons.duckduckgo.com/ip3/terasykyjov.cz.ico",
     "slug": "terasy-kyjov",
-    "status": "up",
-    "uptime": "28.58%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.98%",
+    "status": "down",
+    "uptime": "28.65%",
+    "uptimeDay": "2.99%",
+    "uptimeWeek": "1.40%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.58%",
+    "uptimeYear": "28.65%",
     "time": 2368,
     "timeDay": 1663,
     "timeWeek": 1870,
@@ -351,7 +350,7 @@
       "2026-02-11": 35,
       "2026-02-10": 285,
       "2026-02-09": 151,
-      "2026-02-08": 217
+      "2026-02-08": 191
     }
   }
 ]
